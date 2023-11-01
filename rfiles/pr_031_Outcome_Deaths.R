@@ -3,8 +3,7 @@
 # description: deaths
 #:::::::::::::::::::::::::::::
 
-# download deaths from: https://www.bfs.admin.ch/bfs/en/home/statistics/population/births-deaths/deaths.assetdetail.22324726.html
-# and store it as ch_deaths_YEAR.csv in the data folder
+# the file including deaths is in the data folder
 
 country <- "CH"
 
